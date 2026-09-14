@@ -9,5 +9,5 @@ idf.py add-dependency esp-idf-lib/sht4x
 ```
 
 ## MISC
-* [Issues](https://github.com/sweetpapryka/esp_sht4x)
+* [Issues](https://github.com/sweetpapryka/esp_sht4x/issues?reload=1)
 * [Component page at the ESP Component Registry](https://components.espressif.com/components/Shlandie/sht4x)
